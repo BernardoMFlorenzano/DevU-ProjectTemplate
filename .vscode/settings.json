@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "DevU-TemplateProject.slnx",
+    "dotnet.defaultSolution": "DevU-ProjectTemplate.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
